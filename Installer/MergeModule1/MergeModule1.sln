@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MergeModule1", "MergeModule1.vdproj", "{0376DFB4-8C04-469F-A0DC-E299A5D93A5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0376DFB4-8C04-469F-A0DC-E299A5D93A5C}.Debug|Default.ActiveCfg = Debug
+		{0376DFB4-8C04-469F-A0DC-E299A5D93A5C}.Debug|Default.Build.0 = Debug
+		{0376DFB4-8C04-469F-A0DC-E299A5D93A5C}.Release|Default.ActiveCfg = Release
+		{0376DFB4-8C04-469F-A0DC-E299A5D93A5C}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E07454F-B74F-460A-9BC1-449422FDB130}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MaxxPlusSetuptest", "MaxxPlusSetuptest.vdproj", "{50B12FF5-A817-4017-9C96-388AE7DCD53B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50B12FF5-A817-4017-9C96-388AE7DCD53B}.Debug|Default.ActiveCfg = Debug
+		{50B12FF5-A817-4017-9C96-388AE7DCD53B}.Debug|Default.Build.0 = Debug
+		{50B12FF5-A817-4017-9C96-388AE7DCD53B}.Release|Default.ActiveCfg = Release
+		{50B12FF5-A817-4017-9C96-388AE7DCD53B}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCA9DFAA-20C1-4DCB-9DDC-BCAFA04BF544}
+	EndGlobalSection
+EndGlobal

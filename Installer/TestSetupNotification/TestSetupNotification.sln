@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TestSetupNotification", "TestSetupNotification.vdproj", "{8F4836C1-B04C-4AB7-A8D7-34351C9EA4CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F4836C1-B04C-4AB7-A8D7-34351C9EA4CA}.Debug|Default.ActiveCfg = Debug
+		{8F4836C1-B04C-4AB7-A8D7-34351C9EA4CA}.Debug|Default.Build.0 = Debug
+		{8F4836C1-B04C-4AB7-A8D7-34351C9EA4CA}.Release|Default.ActiveCfg = Release
+		{8F4836C1-B04C-4AB7-A8D7-34351C9EA4CA}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {425D4F67-9BEF-4C1F-9E09-AD1E242C65CE}
+	EndGlobalSection
+EndGlobal
